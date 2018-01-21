@@ -1,0 +1,2 @@
+# Crowd_Estimation
+The project presents improvements for the existing crowd estimation algorithms to measure crowd density in sophisticated locations such as public transports like bus or a mono-rail. The proposed algorithm makes use of the Fibonacci series multiplied with the thresholds to detect faces that seem smaller in farther regions of a test subject and hence improving the results further. The algorithm is then tested on several test images from different railway networks across the globe and is verified for successful operation with a decent rate of accuracy.
